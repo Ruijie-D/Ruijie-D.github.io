@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages!
+
+I am a _BMI_ student at **the University of Edinburgh - Zhejiang University Institute**. This is my public github repository.
 
 You can use the [editor on GitHub](https://github.com/Ruijie-D/Ruijie-D.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
